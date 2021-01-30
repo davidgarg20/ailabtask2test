@@ -1,0 +1,18 @@
+# Unigram
+
+#word	
+U00:%x[0,0]
+
+#POS
+U01:%x[0,1]
+#sub-POS
+U02:%x[0,2]
+
+#word/POS
+U04:%x[0,0]/%x[0,1]
+#prevword/POS
+U05:%x[-1,1]/%x[0,1]
+
+
+
+

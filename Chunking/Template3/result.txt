@@ -1,0 +1,7 @@
+#Result -------------------------
+Accuracy                 :  95.70466682145344
+Correctly tagged words   :  45342
+Incorrectly tagged words :  2035
+Total words              :  47377
+Total sentences          :  2012
+

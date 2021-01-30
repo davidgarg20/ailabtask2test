@@ -1,0 +1,18 @@
+#Result -------------------------
+Accuracy                 :  95.41858932102835
+Correctly tagged words   :  49215
+Incorrectly tagged words :  2363
+Total words              :  51578
+Total sentences          :  3466
+#window of words			
+#prev two words
+U06:%x[-1,0]
+U07:%x[-2,0]
+#next two words
+U08:%x[1,0]
+U09:%x[2.0]
+
+#Automatically create all bigram features
+B
+
+
