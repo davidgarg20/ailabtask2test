@@ -89,9 +89,10 @@ Commands
 
 ## CNN
 A convolutional neural network (CNN) is a specific type of artificial neural network that uses perceptrons, a machine learning unit algorithm, for supervised learning, to analyze data. CNNs apply to image processing, natural language processing and other kinds of cognitive tasks.A convolutional neural network is also known as a ConvNet.
+
 It is an interaction of identification and of mistakenly spelled words in a content. In common language, it fundamentally examines the content and concentrates
-contained in it. It at that point looks at each word to a rundown of effectively spelled words (a greater amount of like a word reference) and henceforth distinguishes
-the incorrectly spelled words.
+contained in it. It at that point looks at each word to a rundown of effectively spelled words (a greater amount of like a word reference) and henceforth distinguishes the incorrectly spelled words.
+
 Usage - We have actualized a binary characterization model of CNN in which we have utilized a dataset which contains accurately spelled words alongside some
 wrongly spelled words in the proportion of 10:1 (i.e., 10 right words for each wrongly spelled word).
 In this I have used my CGOW embedding
